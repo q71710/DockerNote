@@ -3,7 +3,7 @@
 
 ### Redmine
 
-https://hub.docker.com/_/redmine
+[DocketHub - Redmine](https://hub.docker.com/_/redmine)
 
 ```yml
 version: '3.1'
@@ -44,7 +44,9 @@ services:
 
 ### NextCloud
 
-https://hub.docker.com/_/nextcloud
+* [DocketHub - NextCloud](https://hub.docker.com/_/nextcloud)
+
+* [NextCloud官方設定檔說明文件](https://docs.nextcloud.com/server/12/admin_manual/configuration_server/language_configuration.html)
 
 ```yml
 version: '2'
